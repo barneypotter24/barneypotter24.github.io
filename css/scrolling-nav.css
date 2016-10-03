@@ -38,15 +38,15 @@ h1 {
 }
 
 h3 {
-  color: #D9B310
+  color: #D9B310;
 }
 
 p {
-  color: #000000
+  color: #000000;
 }
 
 a {
-  color: #D9B310
+  color: #D9B310;
 }
 
 .page-scroll {
@@ -58,6 +58,8 @@ a {
     padding-top: 150px;
     text-align: center;
     background: #0B3C5D;
+    display:block;
+    overflow:auto;
 }
 
 .main-picture img {
@@ -77,6 +79,8 @@ a {
     padding-top: 150px;
     text-align: center;
     background: #1D2731;
+    display:block;
+    overflow:auto;
 }
 
 .publications-section p {
@@ -102,4 +106,8 @@ a {
     padding-top: 150px;
     text-align: center;
     background: #1D2731;
+}
+
+.contact-section p {
+  color: #FFFFFF
 }
