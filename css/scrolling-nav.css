@@ -85,7 +85,7 @@ a {
 }
 
 .publications-section p {
-  color: #FFFFFF
+  color: #FFFFFF;
 }
 
 .photos-section {
@@ -93,6 +93,10 @@ a {
     padding-top: 150px;
     text-align: center;
     background: #0B3C5D;
+}
+
+.photos-section p {
+  color: #FFFFFF;
 }
 
 .games-section {
@@ -110,5 +114,5 @@ a {
 }
 
 .contact-section p {
-  color: #FFFFFF
+  color: #FFFFFF;
 }
