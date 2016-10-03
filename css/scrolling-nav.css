@@ -81,6 +81,7 @@ a {
     background: #1D2731;
     display:block;
     overflow:auto;
+    min-height: 100%;
 }
 
 .publications-section p {
