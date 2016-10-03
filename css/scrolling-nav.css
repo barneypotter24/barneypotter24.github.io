@@ -1,0 +1,105 @@
+/*!
+ * Start Bootstrap - Scrolling Nav HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+        background: #D9B310;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+        background: #D9B310;
+    }
+}
+
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children
+of those sections to manage the look and feel of the site. */
+
+h1 {
+  color: #D9B310;
+}
+
+h3 {
+  color: #D9B310
+}
+
+p {
+  color: #000000
+}
+
+a {
+  color: #D9B310
+}
+
+.page-scroll {
+    color: #FF3B3F;
+}
+
+.intro-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #0B3C5D;
+}
+
+.main-picture img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.about-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #328CC1;
+}
+
+.publications-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #1D2731;
+}
+
+.publications-section p {
+  color: #FFFFFF
+}
+
+.photos-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #0B3C5D;
+}
+
+.games-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #328CC1;
+}
+
+.contact-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #1D2731;
+}
