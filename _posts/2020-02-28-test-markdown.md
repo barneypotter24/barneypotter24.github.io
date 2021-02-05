@@ -59,6 +59,9 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
+## Plotly
+{% include figure.html %}
+
 ## Boxes
 You can add notification, warning and error boxes like this:
 
