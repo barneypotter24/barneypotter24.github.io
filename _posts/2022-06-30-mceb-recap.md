@@ -3,13 +3,13 @@ layout: post
 title: MCEB 2022 Recap
 subtitle: And the potential start of some blogging
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assest/img/thumb.png
+thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [test]
+tags: [conference, thoughts]
 comments: false
 ---
 
-The 2022 Mathematical and Computational Evolutionary Biology conference just ended. While I have the post-conference energy (and a free evening in a hostel) I thought I may give writing blog posts a try. I would certainly like this to become something that I do--I won't get better at science commnication if I don't practice--but we will see if the energy keeps up.
+The 2022 Mathematical and Computational Evolutionary Biology conference just ended. While I have the post-conference energy (and a free evening in a hostel) I thought I may give writing blog posts a try. I would certainly like this to become something that I do--I won't get better at science communication if I don't practice--but we will see if the energy keeps up.
 
 For the time being, I think it will be enough to do a little debrief of the conference so that I can organize my thoughts a little bit, and give a few kudos to some of the people whose research and company made MCEB a great experience.
 
@@ -21,9 +21,9 @@ When I was on my way to the conference I was talking to a friend of mine who a f
 
 The content of the conference itself covered a rather broad range of topics. The most-covered topic (fortunately, as it is the one with which I am the most familiar) was viral phylodynamics. While I won't cover every talk and poster that I liked, I will make mention of the keynote given by Denise K\"{u}hnert, both on SARS-CoV-2 genomic epidemiology, and on HBV phylodynamics using ancient sequences to inform evolutionary rate estimates. These have been the two main topics of my PhD thusfar, so I'm glad to finally get the chance to hear her present on the reserach that her group has been doing.
 
-Given the nature of the conference, there were also many talks on various phylogenetic models. A few presentations of note to me (meaning I need to go back and read the papers now) were those by Somayeh Mashayekhi on the Fractional Coalescent, which relaxes the assumption of fixed-variance reproductive rates within the coalescent, Luka Nesterenko's presentation on Neural Networks as a mechanisim for more robust distance-based phylogenetic reconstruction, and Paul Bastide's presentation on Cauchy models for continuous trait evolution on phylogenies. I certainly could not follow all the details that were presented (by no fault of the presenters), but for these and several more similar talks I will definitely be going back to dig into the details that I could not understand from the short presentations.
+Given the nature of the conference, there were also many talks on various phylogenetic models. A few presentations of note to me (meaning I need to go back and read the papers now) were those by Somayeh Mashayekhi on the Fractional Coalescent, which relaxes the assumption of fixed-variance reproductive rates within the coalescent, Luka Nesterenko's presentation on Neural Networks as a mechanism for more robust distance-based phylogenetic reconstruction, and Paul Bastide's presentation on Cauchy models for continuous trait evolution on phylogenies. I certainly could not follow all the details that were presented (by no fault of the presenters), but for these and several more similar talks I will definitely be going back to dig into the details that I could not understand from the short presentations.
 
-One talk that I particularly appreciated was that by David Bryant on the history of the debate surrounding how to combine data from many genes in the inference of species trees. As an early career reseracher I particularly appreciate keynote talks that explain some of the problems, solutions, and debates that have shaped the history of the field. Having not experienced these debates as they were happening I very much appreciate the opportunity to get a little bit of historical perspective on the field. I was discussing with a colleague that it would be nice if all conferences made more of an effort to encourage more historical perspectives talks to help shepherd early-career folks into the conversation.
+One talk that I particularly appreciated was that by David Bryant on the history of the debate surrounding how to combine data from many genes in the inference of species trees. As an early career researcher I particularly appreciate keynote talks that explain some of the problems, solutions, and debates that have shaped the history of the field. Having not experienced these debates as they were happening I very much appreciate the opportunity to get a little bit of historical perspective on the field. I was discussing with a colleague that it would be nice if all conferences made more of an effort to encourage more historical perspectives talks to help shepherd early-career folks into the conversation.
 
 Of course there were many more interesting talks, not to mention the poster sessions. There was almost nothing that I wasn't at least somewhat interested by (and in defense of the "uninteresting", they were exclusively on topics that I am so uneducated in that I didn't have the background knowledge to be interested--I'm sure that they were actually as interesting and engaging as everything else to the people who know what they were about).
 
