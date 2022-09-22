@@ -2,8 +2,9 @@
 layout: post
 title: MCEB 2022 Recap
 subtitle: And the potential start of some blogging
-<!-- gh-repo: daattali/beautiful-jekyll -->
-<!-- gh-badge: [star, fork, follow] -->
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assest/img/thumb.png
+share-img: /assets/img/path.jpg
 tags: [test]
 comments: false
 ---
