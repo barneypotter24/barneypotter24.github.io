@@ -50,7 +50,7 @@ For all these things I know enough to get by, but I feel the need to know them i
 * Learn Julia and Rust
 * Reach out to the people I met and follow up on the conference
 
-All of these things are sort of reserach-adjacent, but they all feel like they would be very important for me moving forward. I want to be good at communicating science so the first and third bullets will help with that. I think Julia and Rust are, in a way, the path forward so I would like to pair-program some projects in them to both learn the languages and to get better at collaborative programming.
+All of these things are sort of research-adjacent, but they all feel like they would be very important for me moving forward. I want to be good at communicating science so the first and third bullets will help with that. I think Julia and Rust are, in a way, the path forward so I would like to pair-program some projects in them to both learn the languages and to get better at collaborative programming.
 
 <!-- I guess with that I'd like to just say a few thank you's to some of the early-career researchers who I got a chance to meet who made this such a great experience for me (presented alphabetically). -->
 
