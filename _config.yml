@@ -16,8 +16,8 @@ author: Barney Isaksen Potter
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Talks: "barneypotter24.github.io/talks"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
