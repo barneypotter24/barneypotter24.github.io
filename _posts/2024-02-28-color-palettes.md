@@ -2,7 +2,7 @@
 layout: post
 title: Color palettes
 subtitle: Notes for myself
-cover-img: /assets/img/color-palettes/viz-palette.jpg
+cover-img: /assets/img/color-palettes/colors.jpg
 thumbnail-img: /assets/img/color-palettes/colorthumb.png
 tags: [colors]
 ---
