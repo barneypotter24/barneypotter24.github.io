@@ -17,6 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Slides: "talks"
+    - CV: "https://docs.google.com/document/d/1C7td-cLFu1x5MPnW5Swm6H3__bVuLlZJvIQiPtrdy74/edit?usp=sharing"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
   # Author's home: "https://deanattali.com"
 
