@@ -33,7 +33,6 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
@@ -45,20 +44,20 @@ social-network-links:
   twitter: barneypotter24
   # patreon: DeanAttali
   # youtube: c/daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
+  #  reddit: yourname
+  #  linkedin: daattali
+  #  xing: yourname
+  #  stackoverflow: "3943160/daattali"
+  #  snapchat: deanat78
+  #  instagram: deanat78
+  #  spotify: yourname
+  #  telephone: +14159998888
+  #  steam: deanat78
+  #  twitch: yourname
+  #  yelp: yourname
+  #  telegram: yourname
+  #  calendly: yourname
+  #  mastodon: instance.url/@username
   ORCID: "0000-0001-9476-149X"
   google-scholar: MVosEJMAAAAJ
 
@@ -197,16 +196,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
@@ -221,10 +218,10 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - unlisted/
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
