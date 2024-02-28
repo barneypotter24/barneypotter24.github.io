@@ -4,7 +4,7 @@ title: Color palettes
 subtitle: Notes for myself
 cover-img: /assets/img/color-palettes/viz-palette.jpg
 thumbnail-img: /assets/img/color-palettes/colorthumb.png
-tags: [post, colors]
+tags: [colors]
 ---
 
 Picking good colors is important for both scientific clarity and aesthetics.
