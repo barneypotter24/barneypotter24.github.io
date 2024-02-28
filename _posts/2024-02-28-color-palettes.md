@@ -2,10 +2,10 @@
 layout: post
 title: Color palettes
 subtitle: Notes for myself
+cover-img: /assets/img/color-palettes/viz-palette.jpg
+thumbnail-img: /assets/img/color-palettes/colorthumb.png
 tags: [post, colors]
 ---
-
-# Colors
 
 Picking good colors is important for both scientific clarity and aesthetics.
 Poorly chosen colors may misrepresent data because of color palette artifacts, or make people disinclined to look at a figure because it is ugly.
@@ -15,7 +15,7 @@ To that end, I'm dumping color related stuff here so that it is easier to find i
 
 [Viz Palette](https://projects.susielu.com/viz-palette): I use this a lot. Gives you a very quick look at how a set of colors work together. Gives each one a qualitative name, does colorblindness comparisons (that are easy to look at), and lets you tweak the colors pretty easily.
 
-![Viz Palette](img/viz-palette.png)
+![Viz Palette](/assets/img/viz-palette.png)
 
 ### Papers
 
