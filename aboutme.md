@@ -6,10 +6,8 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Barney Isaksen Potter. I have the following qualities:
 
-- I rock an okay mustache
 - I am mostly empty space
 - I wear number 24
-- I cook a mean chili
 
 What else do you need?
 

@@ -15,9 +15,9 @@ author: Barney Isaksen Potter
 
 navbar-links:
   About Me: "aboutme"
+  CV: "https://docs.google.com/document/d/1C7td-cLFu1x5MPnW5Swm6H3__bVuLlZJvIQiPtrdy74/edit?usp=sharing"
   Resources:
     - Slides: "talks"
-    - CV: "https://docs.google.com/document/d/1C7td-cLFu1x5MPnW5Swm6H3__bVuLlZJvIQiPtrdy74/edit?usp=sharing"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
   # Author's home: "https://deanattali.com"
 
@@ -95,16 +95,16 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#77bedb"
-navbar-text-col: "#7f6e85"
-navbar-border-col: "#7f6e85"
-page-col: "#eeeeee"
-text-col: "#282828"
-link-col: "#48a365"
-hover-col: "#cc79a7"
-footer-col: "#77bedb"
-footer-text-col: "#7f6e85"
-footer-link-col: "#4c72a5"
+navbar-col: "#16537e"
+navbar-text-col: "#fff9e7"
+navbar-border-col: "#9ebccf"
+page-col: "#fff9e7"
+text-col: "#000000"
+link-col: "#16537e"
+hover-col: "#9bccf"
+footer-col: "#fff9e7"
+footer-text-col: "#16537e"
+footer-link-col: "#9ebccf"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

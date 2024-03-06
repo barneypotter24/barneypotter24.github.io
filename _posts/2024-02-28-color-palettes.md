@@ -17,6 +17,8 @@ To that end, I'm dumping color related stuff here so that it is easier to find i
 
 ![Viz Palette](/assets/img/color-palettes/viz-palette.png)
 
+![color-hex](https://www.color-hex.com/color-palette/1040292): for more aesthetic palettes (e.g. for this site).
+
 ### Papers
 
 Here is a paper on [The misuse of color in science communication](https://www.nature.com/articles/s41467-020-19160-7?source=techstories.org) (Crameri et al. 2020).
