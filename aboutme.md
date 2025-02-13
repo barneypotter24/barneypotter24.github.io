@@ -10,7 +10,7 @@ My name is Barney Isaksen Potter. I have the following qualities:
 - I have lived in Belgium for over five years
 - I wear number 24
 - I am a sad, sad Seattle Mariners fan
-- My favorite food is [okonomiyaki](https://www.justonecookbook.com/okonomiyaki/), and my favorite color is probably <svg width="20" height="20"><rect width="20" height="20" style="fill:#260339;stroke-width:3;stroke:rgb(0,0,0)" /></svg> `#260339`, or something similar
+- My favorite food is [okonomiyaki](https://www.justonecookbook.com/okonomiyaki/), and my favorite color is probably <span style="color: #260339">■</span> `#260339`, or something similar
 - I like dogs
 
 ### My story
