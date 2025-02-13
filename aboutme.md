@@ -1,15 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Fun facts!
 ---
 
 My name is Barney Isaksen Potter. I have the following qualities:
 
 - I am mostly empty space
+- I have lived in Belgium for over five years
 - I wear number 24
-
-What else do you need?
+- I am a sad, sad Seattle Mariners fan
+- My favorite food is [okonomiyaki](https://www.justonecookbook.com/okonomiyaki/), and my favorite color is probably ![#260339](https://via.placeholder.com/15/4c72a5/4c72a5.png) `#260339`
+- I like dogs
 
 ### My story
 
